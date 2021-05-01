@@ -4,12 +4,22 @@ import java.util.Date;
 
 public class Persona {
 
+
     private String nombre;
     private String apellido;
     private Integer documento;
     private Double altura;
     private Double peso;
     private Date fechaNacimiento;
+
+    public Persona(String nombre, String apellido) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+
+    public Persona() {
+
+    }
 
     public String getNombre() {
         return nombre;
@@ -57,5 +67,13 @@ public class Persona {
 
     public void setFechaNacimiento(Date fechaNacimiento) {
         this.fechaNacimiento = fechaNacimiento;
+    }
+
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "nombre='" + nombre + '\'' +
+                ", apellido='" + apellido + '\'' +
+                '}';
     }
 }
