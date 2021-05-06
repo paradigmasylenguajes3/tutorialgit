@@ -6,7 +6,7 @@
     * Se debera generar una aplicación por consola en el proyecto
     * Donde permita crear Equipos
     * Cargar personas y canchas
-    * Crear partidos
+
 
 * Integrantes del Grupo:
    *  
