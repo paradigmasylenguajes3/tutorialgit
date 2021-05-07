@@ -2,13 +2,15 @@
 ## Tasks
 * Forkear el repositorio
 * Clonarlo en sus computadores
-* Para realizar los siguientes puntos:
+* Para realizar los siguientes puntos (1 commit minimo por funcionalidad agregada):
     * Se debera generar una aplicación por consola en el proyecto
     * Donde permita crear Equipos
-    * Cargar personas y canchas
+    * Cargar personas
+    * Agregar canchas
+* Terminado estos puntos deben subir los cambios a sus repositorios y luego hacer una pull request.
 
 
-* Integrantes del Grupo:
-   *  
+* Integrantes del grupo:
+
 
 
